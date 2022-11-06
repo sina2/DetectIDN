@@ -4,4 +4,4 @@ This is a UserScript to detect IDN(internationalized domain name) for IDN homogr
 
 https://en.wikipedia.org/wiki/IDN_homograph_attack
 
-https://www.reddit.com/r/GIMP/comments/ygbr4o/comment/iuc7bar/?utm_source=reddit&utm_medium=web2x&context=3
+https://www.reddit.com/r/GIMP/comments/ygbr4o/comment/iuc7bar/
