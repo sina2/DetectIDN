@@ -14,7 +14,7 @@
     'use strict';
 
     // Your code here...
-    var magicWord = "://xn--";
+    var magicWord = "xn--";
 
     console.log(location.href);
     if( location.href.indexOf(magicWord) != -1){
